@@ -278,8 +278,9 @@ footer{
     list-style: none;
     display: flex;
     justify-content: space-between;
-    padding: 0 350px;
+    padding: 20px 350px 0 350px;
     padding-bottom: 2px;
+
   
 }
 .foot2sec2 p{
